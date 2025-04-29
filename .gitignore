@@ -1,0 +1,25 @@
+# Бинарные файлы и DLL
+*.dll
+*.exe
+*.pdb
+
+# Временные файлы
+*.tmp
+*.temp
+*.log
+
+# Папки сборки
+bin/
+obj/
+Debug/
+Release/
+
+# Файлы IDE
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Другие файлы
+*.cache
+*.bak 
